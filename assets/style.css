@@ -1,3 +1,22 @@
-h1 {
-    color: rgb(190, 136, 241);
+.box {
+    height: 100px;
+    width: 200px;
+}
+.box-purple {
+    color: blue;
+    background-color: blueviolet;
+}
+.box-blue {
+    color: black;
+    background-color: aqua;
+}
+
+.container {
+    background-color: black;
+}
+#text1 {
+    color: blanchedalmond;
+}
+#text3 {
+    color: aliceblue;
 }
